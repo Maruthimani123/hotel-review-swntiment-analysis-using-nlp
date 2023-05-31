@@ -1,4 +1,4 @@
-# hotel-review-swntiment-analysis-using-nlp
+# hotel-review-sentiment-analysis-using-nlp
 
 In this study the working model was proposed and 
 development to find hotel review sentiment analysis using NLP . 
